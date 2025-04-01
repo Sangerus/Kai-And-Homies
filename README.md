@@ -16,3 +16,8 @@
 ## 🛠 Công nghệ sử dụng
 - **Unity**
 - **Aseprite**
+
+
+## 👥 Cộng tác viên  
+- [Nguyễn Minh Sang](https://github.com/Sangerus)
+- [Trần Anh Hào](https://github.com/drago1000k) 
