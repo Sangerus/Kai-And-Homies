@@ -1,30 +1,3 @@
-﻿using UnityEngine;
-
-public class Star : MonoBehaviour
-{
-    public string id;
-
-    [ContextMenu("Generate guid for id")]
-    private void GenerateGuid()
-    {
-        id = System.Guid.NewGuid().ToString();
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
-        {
-            if (GameManager.instance != null)
-            {
-                GameManager.instance.CollectStar(id);
-            }
-            else
-            {
-                Debug.LogError("GameManager instance is missing!");
-            }
-
-            gameObject.SetActive(false);
-        }
-    }
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9880c25529df3e01caf2177ecf524734025862992e2825aa933bbb9657d03cd1
+size 664

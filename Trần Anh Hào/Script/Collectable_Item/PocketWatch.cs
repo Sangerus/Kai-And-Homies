@@ -1,22 +1,3 @@
-﻿using UnityEngine;
-
-public class PocketWatch : MonoBehaviour
-{
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
-        {
-            if (GameManager.instance != null)
-            {
-                GameManager.instance.UpdatePocketWatch(GameManager.instance.GetCurrentPocketWatch() + 1);
-            }
-            else
-            {
-                Debug.LogError("GameManager instance is missing!");
-            }
-
-            Destroy(gameObject);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c96a578d5b4662b65bdecd22c355b24db3f207ac421fea3066a3cf83edfa52be
+size 550
