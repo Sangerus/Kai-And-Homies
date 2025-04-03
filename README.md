@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80aab04c9d53abe99268ea44b1436d932810ea4391ba81c087c884e7654153d3
-size 460
+# ĐỒ ÁN CƠ SỞ NGÀNH - NHÓM 2
+
+**Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam**
+
+## 📌 Đề tài: Kai & Homies
+
+---
+
+## 👥 Thành viên nhóm:
+- Nguyễn Minh Sang
+- Trần Quốc An
+- Trần Anh Hào
+
+---
+
+## 🛠 Công nghệ sử dụng
+- **Unity**
+- **Aseprite**
+
+
+## 👥 Cộng tác viên  
+- [Nguyễn Minh Sang](https://github.com/Sangerus)
+- [Trần Anh Hào](https://github.com/drago1000k) 
+- [Trần Quốc An](https://github.com/Emwyhbeovl08)
